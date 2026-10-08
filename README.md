@@ -1,4 +1,4 @@
-42 student, from low-level C to full-stack web apps.
+## 42 student, from low-level C to full-stack web apps.
 
 ## 🛠️ Stack
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
