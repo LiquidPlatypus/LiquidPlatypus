@@ -1,5 +1,3 @@
-# 👋 Hi, I'm …
-
 42 student, from low-level C to full-stack web apps.
 
 ## 🛠️ Stack
